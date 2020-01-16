@@ -1,7 +1,7 @@
 function basicTeenager(age) {
   if(age == 13 <= 19){
     //age should be between 13 & 19 but not more than 19
-    console.log('You are a teenager!')
+    console.log('You are a teenager!');
   }
 }
 
