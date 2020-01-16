@@ -1,11 +1,13 @@
 function basicTeenager(age) {
-  if(age == 13 <= 19){
+  if(basicTeenager == 13 <= 19){
     //age should be between 13 & 19 but not more than 19
     console.log('You are a teenager!');
   }
 }
 
-function teenager(age) {
+basicTeenager(14)
+
+/*function teenager(age) {
   if(age){
     13 <= 19
     console.log('You are a teenager!')
@@ -68,3 +70,4 @@ function switchAge(age) {
                   break;
   }
 }
+*/
